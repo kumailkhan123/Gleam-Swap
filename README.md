@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kumailkhan123/Gleam-Swap/blob/main/15pro%20max/Simulator%20Screenshot%20-%2015%20-%202025-08-07%20at%2010.52.16.png " alt="About Screen">
-  <img src="https://github.com/kumailkhan123/Gleam-Swap/blob/main/15pro%20max/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-07%20at%2008.48.40.png" alt ="Welcome Screen">
-
-  <img src="https://github.com/kumailkhan123/Gleam-Swap/blob/main/15pro%20max/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-07%20at%2008.59.36.png" alt="Password View">
+  
+  <img src="https://github.com/kumailkhan123/Gleam-Swap/blob/main/15pro%20max/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-07%20at%2008.48.40.png"  width="200" alt ="Welcome Screen">
+  <img src="https://github.com/kumailkhan123/Gleam-Swap/blob/main/15pro%20max/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-07%20at%2008.59.36.png"  width="200" alt="Password View">
+  <img src="https://github.com/kumailkhan123/Gleam-Swap/blob/main/15pro%20max/Simulator%20Screenshot%20-%2015%20-%202025-08-07%20at%2010.52.16.png"  width="200"  alt="About Screen">
 </p>
 
 ---
@@ -51,12 +51,8 @@
 - **Xcode 13+** (for developers)
 - **A desire for stronger security!** 🔑
 
-### Installation
 
-1. **Download from App Store**  
-   [![Download on the App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/app/idYOUR_APP_ID_HERE)
-
-2. **Or Build from Source**
+1. ** Build from Source**
    ```bash
    git clone https://github.com/kumailkhan123/Gleam-Swap.git
    cd Gleam-Swap
@@ -128,7 +124,6 @@ GleamSwap/
 
 [![GitHub](https://img.shields.io/badge/GitHub-@kumailkhan123-181717?style=for-the-badge&logo=github)](https://github.com/kumailkhan123)
 [![Email](https://img.shields.io/badge/Email-kumailabbas3778%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:kumailabbas3778@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kumail.dev-008037?style=for-the-badge&logo=atom)](https://yourportfolio.com)
 
 **iOS Engineer & Privacy Advocate**  
 *Building tools that respect users and protect their data*
@@ -137,17 +132,11 @@ GleamSwap/
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-> Privacy isn't a feature — it's a fundamental right. That's why SecurePass will always be free, open source, and respectful of your data.
-
----
 
 ## 🤝 Contributing
 
-We love contributions from security enthusiasts and developers!
+I love contributions from security enthusiasts and developers!
 
 ### How to Help
 1. **Report Bugs** — Found an issue? Let us know!
@@ -196,7 +185,6 @@ Your passwords never leave your device — ever.
 
 *Stop trusting your passwords to strangers online. Generate them securely, locally, with style.*
 
-[![Download on App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/app/idYOUR_APP_ID_HERE)
 
 </div>
 
